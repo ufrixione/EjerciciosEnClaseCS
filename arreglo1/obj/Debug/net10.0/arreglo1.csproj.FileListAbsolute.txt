@@ -1,0 +1,14 @@
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\bin\Debug\net10.0\arreglo1.exe
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\bin\Debug\net10.0\arreglo1.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\bin\Debug\net10.0\arreglo1.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\bin\Debug\net10.0\arreglo1.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\bin\Debug\net10.0\arreglo1.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\refint\arreglo1.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\arreglo1.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\arreglo1\obj\Debug\net10.0\ref\arreglo1.dll
