@@ -1,0 +1,15 @@
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.sourcelink.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\bin\Debug\net10.0\restaArreglo.exe
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\bin\Debug\net10.0\restaArreglo.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\bin\Debug\net10.0\restaArreglo.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\bin\Debug\net10.0\restaArreglo.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\bin\Debug\net10.0\restaArreglo.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\refint\restaArreglo.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\restaArreglo.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\restaArreglo\obj\Debug\net10.0\ref\restaArreglo.dll
