@@ -1,0 +1,15 @@
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\bin\Debug\net10.0\productoEscalar.exe
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\bin\Debug\net10.0\productoEscalar.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\bin\Debug\net10.0\productoEscalar.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\bin\Debug\net10.0\productoEscalar.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\bin\Debug\net10.0\productoEscalar.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.sourcelink.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\refint\productoEscalar.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\productoEscalar.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\productoEscalar\obj\Debug\net10.0\ref\productoEscalar.dll
