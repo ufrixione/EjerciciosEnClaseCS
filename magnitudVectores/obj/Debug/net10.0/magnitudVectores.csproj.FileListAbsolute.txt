@@ -1,0 +1,15 @@
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\bin\Debug\net10.0\magnitudVectores.exe
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\bin\Debug\net10.0\magnitudVectores.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\bin\Debug\net10.0\magnitudVectores.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\bin\Debug\net10.0\magnitudVectores.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\bin\Debug\net10.0\magnitudVectores.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.sourcelink.json
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\refint\magnitudVectores.dll
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\magnitudVectores.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Grupo6ProgramacionCS\magnitudVectores\obj\Debug\net10.0\ref\magnitudVectores.dll
